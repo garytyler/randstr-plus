@@ -1,19 +1,20 @@
 <h1 align="center">randstr-plus</h1>
 <h3 align="center">A slightly more flexible string generator</h3>
 <p align="center">
-  <a href="https://github.com/garytyler/pytest-asgi-server/actions">
-    <img alt="Actions Status" src="https://github.com/garytyler/pytest-asgi-server/workflows/tests/badge.svg">
+  <a href="https://github.com/garytyler/randstr-plus/actions">
+    <img alt="Actions Status" src="https://github.com/garytyler/randstr-plus/workflows/tests/badge.svg">
   </a>
-  <a href="https://codecov.io/gh/garytyler/pytest-asgi-server">
-    <img src="https://codecov.io/gh/garytyler/pytest-asgi-server/branch/master/graph/badge.svg?token=q7mUlqR3jF" />
+
+  <a href="https://codecov.io/gh/garytyler/randstr-plus">
+    <img src="https://codecov.io/gh/garytyler/randstr-plus/branch/master/graph/badge.svg?token=3N9UKA0AHY" />
   </a>
-  <a href="https://pypi.org/project/pytest-asgi-server/">
-    <img alt="PyPI" src="https://img.shields.io/pypi/v/pytest-asgi-server">
+  <a href="https://pypi.org/project/randstr-plus/">
+    <img alt="PyPI" src="https://img.shields.io/pypi/v/randstr-plus">
   </a>
-  <a href="https://pypi.org/project/pytest-asgi-server/">
-    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/pytest-asgi-server">
+  <a href="https://pypi.org/project/randstr-plus/">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/randstr-plus">
   </a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/garytyler/pytest-asgi-server">
+  <img alt="GitHub" src="https://img.shields.io/github/license/garytyler/randstr-plus">
   <a href="https://github.com/psf/black">
     <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
   </a>
