@@ -14,7 +14,7 @@ def randstr(
     punctuation: bool = True,
     numbers: bool = True,
 ) -> str:
-    """Return a single string according to the given parameters.
+    """Return a single string generated from random characters according to the given parameters.
 
     Keyword Arguments:
         min_length {int} -- minimum total character length (default: {5})
