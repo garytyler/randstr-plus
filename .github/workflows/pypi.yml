@@ -15,7 +15,6 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python-version }}
-          architecture: x64
       - run: pip install tox
       - run: pip install poetry
       - run: tox
